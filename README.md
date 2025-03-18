@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ## Contact
-**Personal Website:** [kylejcaron.github.io](https://www.kylejcaron.github.io)
+**Personal Website:** [kylejcaron.github.io](https://kylejcaron.github.io)
 
 <a href="https://linkedin.com/in/kylecaron" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="kylecaron" height="40"/></a>
 
